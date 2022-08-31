@@ -1,2 +1,2 @@
 #!/bin/bash
-vim tmp/my_first_directory
+mkdir /tmp/my_first_directory
